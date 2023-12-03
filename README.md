@@ -17,8 +17,8 @@ By Charlie Corriero
         - D | Destroyer (length of 2)
      - The contents of the file would look like this
 
-        C C1 C3 \n
-        A A1 A5\n
-        B B1 B4\n
-        S D1 D3\n
-        D E1 E2\n
+        C C1 C3  
+        A A1 A5  
+        B B1 B4  
+        S D1 D3  
+        D E1 E2  
